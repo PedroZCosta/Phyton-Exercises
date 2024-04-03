@@ -1,3 +1,9 @@
+"""
+Exercicio: Calculo de Bhaskara
+Criador: Pedro Henrique Zakrzevski Costa
+Data: 22/03/2024
+versao: 1.0
+"""
 import math
 # verifica as informacoes do usuario
 var1 = int(input("Digite o numero que voce deseja calcular A: "))

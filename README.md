@@ -1,2 +1,1 @@
-Este repositório contém uma coleção de exercícios que eu desenvolvi como parte do meu treino de programação durante o curso de Engenharia de Software na PUCPR. Os exercícios abrangem diversos conceitos básicos e intermediários de programação em Python, como controle de fluxo, estruturas de dados e algoritmos.
-
+This repository contains a collection of exercises that I developed as part of my programming training during the Software Engineering course at PUCPR. The exercises cover various basic and intermediate Python programming concepts, such as control flow, data structures, and algorithms.
